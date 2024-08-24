@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://computenyx.github.io/sitemap/sitemap.txt
